@@ -1,0 +1,22 @@
+[
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"dataarchitectstudio/Spark-Performance-tuning/blob/main/Datasets/ecdc/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"dataarchitectstudio/Spark-Performance-tuning/blob/main/Datasets/ecdc/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    },
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"dataarchitectstudio/Spark-Performance-tuning/blob/main/Datasets/ecdc/testing.csv",
+        "sinkFileName":"testing.csv"
+    },
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"dataarchitectstudio/Spark-Performance-tuning/blob/main/Datasets/ecdc/country_response.csv",
+        "sinkFileName":"country_response.csv"
+    }
+]

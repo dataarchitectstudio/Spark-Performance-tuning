@@ -205,14 +205,3 @@ AQE wasn’t wrong;
 It just wasn’t right for *this workload*.
 
 ---
-
-# 🙌 Additional Help
-
-I can also generate:
-
-- AQE vs Non-AQE performance comparison table  
-- ASCII diagrams explaining AQE re-optimization steps  
-- A LinkedIn-ready short version  
-- A polished Medium article version  
-- A fully structured GitHub project for this case study  
-
